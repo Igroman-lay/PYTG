@@ -1,0 +1,2 @@
+RUN pip install telebot
+CMD ["python", "bot.py"]
